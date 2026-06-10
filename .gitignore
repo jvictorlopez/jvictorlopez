@@ -1,0 +1,13 @@
+# Dependencies (none required, but just in case)
+node_modules/
+
+# Local debug output — regenerated on every run, never committed
+assets/activity-debug.json
+
+# Environment / secrets
+.env
+.env.*
+
+# OS noise
+.DS_Store
+*.log
